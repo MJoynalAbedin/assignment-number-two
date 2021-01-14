@@ -50,7 +50,6 @@ p{
     margin-top: 100px;
     width: 100%;
     height: 550px;
-    display: block;
 }
 .img-icon-XML img{
     width: 500px;
@@ -62,10 +61,6 @@ p{
     float: left;
 }
 @media(max-width:750px){
-    .sec4{
-        height: 900px;
-        
-    }
     .img-icon-XML img{
         margin-top: 50px;
         margin-left: 10px;
@@ -74,7 +69,7 @@ p{
 }
 @media(max-width: 700px){
     .half-section{
-        width: 100%;;
+        width: 100%;
     }
     .center-mobile{
         display: flex;
@@ -88,7 +83,7 @@ p{
         margin: auto;
     }
     .sec4{
-        height: 1000px;
+        height: 1100px;
 }
 .panda-bg{
     background-color:#feeae9;
